@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-// This is a new file 
-
+// this is my new comment I deleted the line above it said, "this is a new file"
 // This is CS department of TSU, we teach software engineering in COMP 3300
 class Main 
 
@@ -11,7 +10,7 @@ public static void main(String[] args)
 {
 
 Scanner Obj = new Scanner (System.in);
-System.out.println("Enter an integer value");
+System.out.print("Enter an integer value here:"); 
 
 int x_val = 10; //Obj.nextInt();
 int value = 0;
