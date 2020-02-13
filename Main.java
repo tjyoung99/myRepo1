@@ -11,7 +11,7 @@ public static void main(String[] args)
 {
 
 Scanner Obj = new Scanner (System.in);
-System.out.println("Enter an integer value");
+System.out.print("Enter an integer value here P");
 
 int x_val = 10; //Obj.nextInt();
 int value = 0;
